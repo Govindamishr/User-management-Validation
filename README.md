@@ -28,7 +28,6 @@
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.0.5</version>
 </dependency>
-
 - <dependency>
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
@@ -36,8 +35,8 @@
     <scope>provided</scope>
 </dependency>
 - <dependency>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter-validation</artifactId>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-validation</artifactId>
 </dependency>
 
 --------
