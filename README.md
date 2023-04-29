@@ -35,9 +35,11 @@
     <scope>provided</scope>
 </dependency>
 - <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-validation</artifactId>
-		</dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-validation</artifactId>
+</dependency>
+		
+		
 --------
 
 ### **packages and class**
