@@ -28,16 +28,16 @@
     <artifactId>spring-boot-devtools</artifactId>
     <version>3.0.5</version>
 </dependency>
-<dependency>
+
+- <dependency>
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
     <version>1.18.26</version>
     <scope>provided</scope>
 </dependency>
-<dependency>
-    <groupId>javax.validation</groupId>
-    <artifactId>validation-api</artifactId>
-    <version>2.0.1.Final</version>
+- <dependency>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-validation</artifactId>
 </dependency>
 
 --------
