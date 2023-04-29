@@ -17,6 +17,7 @@
 
 ### **use of dependency**
 -----
+
 - <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-web</artifactId>
@@ -40,8 +41,7 @@
     <version>3.0.6</version>
 </dependency>
 
-		
-		
+
 --------
 
 ### **packages and class**
